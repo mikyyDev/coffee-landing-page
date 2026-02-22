@@ -5,7 +5,6 @@ A beautiful, responsive **landing page** for a fictional coffee shop. Built with
 ## Live Demo
 🌐 View the live site here:  
 https://mikyyDev.github.io/coffee-landing-page/
-*(You'll set this up later with GitHub Pages if you want — super easy and free!)*
 
 ## Features
 - Modern and clean design  
